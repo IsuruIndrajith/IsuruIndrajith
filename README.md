@@ -24,13 +24,13 @@
 ### 🌐 Connect with Me  
 
 <p align="left">
-  <a href="https://twitter.com/isuruindrajith" target="blank">
+  <a href="https://x.com/IsuruIndrajith_?t=QCedPorfEeLOAcZB0MwHcA&s=08" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isuruindrajith" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/isuru-indrajith" target="blank">
+  <a href="www.linkedin.com/in/isuru-indrajith-387ab7278" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isuru-indrajith" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/29112809" target="blank">
+  <a href="https://stackoverflow.com/users/29112809/isuru-indrajith" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29112809" height="30" width="40" />
   </a>
   <a href="https://kaggle.com/isuruindrajith" target="blank">
