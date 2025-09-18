@@ -181,9 +181,10 @@ DevOps & Deployment:
 
 <div align="center">
 
-![Snake animation](https://github.com/isuruindrajith/isuruindrajith/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/isuruindrajith/isuruindrajith/output/github-contribution-grid-snake.svg)
 
 </div>
+
 
 ---
 
@@ -217,7 +218,7 @@ DevOps & Deployment:
 ---
 
 <div align="center">
-
+  
 ### 🔥 **What Makes Me A Strong Full-Stack Developer**
 
 ```yaml
@@ -240,7 +241,6 @@ Collaboration Skills:
   - "Proactive problem-solving and debugging capabilities"
   - "Ready to contribute to team projects and mentor junior developers"
 ```
-
 </div>
 
 ---
